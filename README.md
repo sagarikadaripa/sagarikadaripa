@@ -18,14 +18,21 @@
 
 ```ruby
 sagarika = {
-  location:   "India 🇮🇳",
+  location:   "Bengaluru, India 🇮🇳",
   role:       "Full Stack Developer",
   stack:      ["Ruby on Rails", "Python", "Java", "PostgreSQL"],
   learning:   ["Machine Learning", "AI/LLMs", "Data Science"],
   ask_me:     ["Ruby on Rails", "REST APIs", "Web Development"],
-  fun_fact:   "I debug with coffee ☕ and fix bugs with more coffee"
+  portfolio:  "https://sagarikadaripa.github.io/sagarika-daripa/",
+  fun_fact:   "I debug with coffee ☕ and smash bugs on the badminton court 🏸"
 }
 ```
+
+<div align="center">
+
+🌐 **[View My Portfolio →](https://sagarikadaripa.github.io/sagarika-daripa/)**
+
+</div>
 
 ---
 
