@@ -70,6 +70,17 @@ sagarika = {
 
 ---
 
+## GitHub Achievements
+
+<div align="center">
+
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
+
+</div>
+
+---
+
 ## GitHub Trophies
 
 <div align="center">
