@@ -95,6 +95,7 @@ sagarika = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4FA3?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sagarikadaripa.github.io/sagarika-daripa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarikadaripa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarikadaripa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarikadaraipa19@gmail.com)
