@@ -57,7 +57,7 @@ sagarika = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarikadaripa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarikadaripa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarikadaripa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -74,7 +74,7 @@ sagarika = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagarikadaripa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagarikadaripa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
